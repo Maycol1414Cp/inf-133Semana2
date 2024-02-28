@@ -1,0 +1,8 @@
+Soap. es un protocolo, utiliza xml para definis mensajes
+XMl es un lenguaje para marcado disenado para almacenar y transportar
+com
+
+crear cuenta e postman
+REst estilo arquitectonico ppara crear servicios get post put dlete patch
+maneha por uris
+
